@@ -17,3 +17,8 @@ The first file contains the information about the pull requests that were create
 The second file contains the information about the pull requests that were created in the first half of the year 2014. The third file contains the information about the pull requests that were created in the second half of the year 2014. The fourth file contains the information about the files that were modified by each pull request.
 
 The third file contains the information about the files that were modified by each pull request.
+
+DataCamp helped me a lot through this project. I learned a lot from the DataCamp course, and I learned a lot from the DataCamp community. 
+
+Thanks you all for your support!
+
